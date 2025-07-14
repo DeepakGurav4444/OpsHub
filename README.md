@@ -98,6 +98,8 @@ The project includes a `/Scripts` folder which contains:
 - **DB creation scripts**: to create required tables and schema
 - **Sample data scripts**: to insert sample roles, tenants, users, permissions, workflows, etc. for testing
 
+---
+
 ## 📁 Folder Location:
 /Scripts
 ├── Ops_Hub.sql
