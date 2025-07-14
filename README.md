@@ -92,4 +92,10 @@ It enables different roles like System Admin, Tenant, Super Admin, and Operation
 ---
 
 ## 📂 Folder Structure (Typical)
-
+/Controllers
+/Services
+/Repositories
+/Models
+/Filters
+/Helpers
+/Middleware
